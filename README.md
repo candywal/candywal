@@ -1,1 +1,1 @@
-I’m interested in building an AI that will not kill everyone.
+I’m interested in building an AI that will not kill everyone. I think working on interpretability is one of the most tractable way to do so right now. I am interested in working on projects together - reach out to me if you think you want to work on something with me. :)  
